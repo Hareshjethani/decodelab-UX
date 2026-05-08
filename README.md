@@ -16,7 +16,7 @@ This repository contains a comprehensive portfolio of advanced Artificial Intell
 ┃ ┗ 📜 Task 5.docx (Red Teaming & Bias Report)
 ┗ 📜 README.md (Portfolio Overview)
 ```
-Project Deep Dive
+## Project Deep Dive
 Project 1: The System Prompt Architect
 Scenario: Designing an automated customer service assistant for a high-end luxury travel agency.
 
