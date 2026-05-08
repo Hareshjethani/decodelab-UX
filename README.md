@@ -1,6 +1,3 @@
-Here is the fully professional, English version of the README file with all emojis removed. You can copy and paste this directly into your GitHub repository.
-
-Markdown
 # Generative AI and Prompt Engineering Portfolio
 
 This repository contains a comprehensive portfolio of advanced Artificial Intelligence projects focusing on Prompt Engineering, Document Intelligence (RAG), and AI Safety and Auditing. These projects demonstrate the practical application, structural control, and rigorous testing of large language models in enterprise scenarios.
@@ -18,6 +15,7 @@ This repository contains a comprehensive portfolio of advanced Artificial Intell
 ┣ 📂 Project-3-AI-Safety-Audit
 ┃ ┗ 📜 Task 5.docx (Red Teaming & Bias Report)
 ┗ 📜 README.md (Portfolio Overview)
+```
 Project Deep Dive
 Project 1: The System Prompt Architect
 Scenario: Designing an automated customer service assistant for a high-end luxury travel agency.
